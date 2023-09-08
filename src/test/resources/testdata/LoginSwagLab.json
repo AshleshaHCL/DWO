@@ -1,0 +1,13 @@
+{
+"loginWithValidCredential" : [ {
+    "Username":"standard_user",
+    "Password":"secret_sauce"
+  }
+   ],  
+   
+   "loginWithIValidCredential" : [ {
+    "Username":"standardser",
+    "Password":"secret_sau"
+  }
+   ]  
+}
